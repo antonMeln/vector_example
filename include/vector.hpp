@@ -197,3 +197,4 @@ bool operator !=(vector_t<T> const & lhs, vector_t<T> const & rhs)
 	return false;
 	}else return true;
 }
+
