@@ -115,5 +115,5 @@ TEST_CASE("poping elements")
 
 	vector.pop_back();
 	REQUIRE( vector.size() == 0 );
-	REQUIRE( vector.capacity() == 1 );
+	REQUIRE( vector.capacity() == 1 ); 
 }
